@@ -1,9 +1,9 @@
-# TecMundo - Inovação e Tecnologia
+# TecBlog - Inovação e Tecnologia
 
 Bem-vindo ao TecMundo! Somos uma empresa apaixonada por inovação e tecnologia, buscando transformar ideias em soluções concretas que impactam o mundo. Neste repositório, você encontrará informações sobre nossos projetos, tecnologias e conquistas. (Empresa fictícia)
 
 
-Na TecMundo, nossa missão é impulsionar a inovação e a tecnologia para criar um futuro mais brilhante. Nossas áreas de atuação incluem:
+Na TecBlog, nossa missão é impulsionar a inovação e a tecnologia para criar um futuro mais brilhante. Nossas áreas de atuação incluem:
 
 - Desenvolvimento de Software
 - Inteligência Artificial
@@ -12,12 +12,12 @@ Na TecMundo, nossa missão é impulsionar a inovação e a tecnologia para criar
 - Tecnologias Emergentes
 
 
-## Contato
+## Quer saber mais sobre nós ?
 
-Quer saber mais sobre nós ? De uma olhada na nossa página
+ De uma olhada na nossa página
 
-- Website: [www.tecmundo-inovacao.com](https://www.tecmundo-inovacao.com)
+- Website: [www.tecblog-inovacao.com](https://maurosantos2004.github.io/TecMundo/)
 
 ---
 
-© 2023 TecMundo - Inovação e Tecnologia. Todos os direitos reservados.
+© 2023 TecBlog - Inovação e Tecnologia. Todos os direitos reservados.
