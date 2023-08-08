@@ -16,7 +16,7 @@ Na TecBlog, nossa missão é impulsionar a inovação e a tecnologia para criar 
 
  De uma olhada na nossa página
 
-- Website: [www.tecblog-inovacao.com](https://maurosantos2004.github.io/TecMundo/)
+- Website: (https://maurosantos2004.github.io/TecMundo/)
 
 ---
 
